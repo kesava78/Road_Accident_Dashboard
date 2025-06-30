@@ -3,6 +3,7 @@
 
 
 **Steps to converting the DataSheet to Dashboard:
+
 Data Cleaning
 
 Data Processing
@@ -17,6 +18,7 @@ Report Insights
 
 
 **Requirements:**
+
 Primary KPI - Total Casualties taken place after the accident
 
 Primary KPI's - Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle

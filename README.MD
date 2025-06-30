@@ -2,6 +2,15 @@
 ![Image](https://github.com/user-attachments/assets/f87277e5-9da1-45a0-be34-bf0060dd7b0f)
 
 
+**Steps to converting the DataSheet to Dashboard:
+Data Cleaning
+Data Processing
+Data Analysis
+Data Visualization
+DashBoard/Report
+Report Insights
+
+
 **Requirements:**
 Primary KPI - Total Casualties taken place after the accident
 

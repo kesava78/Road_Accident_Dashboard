@@ -1,5 +1,5 @@
 # ROAD ACCIDENT DASHBOARD
-![project logo](https://github.com/kesava78/Road_Accident_Dashboard/blob/main/board.jpeg)
+![Image](https://github.com/user-attachments/assets/f87277e5-9da1-45a0-be34-bf0060dd7b0f)
 
 
 **Requirements:**

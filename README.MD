@@ -4,10 +4,15 @@
 
 **Steps to converting the DataSheet to Dashboard:
 Data Cleaning
+
 Data Processing
+
 Data Analysis
+
 Data Visualization
+
 DashBoard/Report
+
 Report Insights
 
 
